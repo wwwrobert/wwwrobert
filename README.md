@@ -6,11 +6,12 @@
 
 ---
 
-> ## **SOBRE O MEU GITHUB:**
+> ## **INFORMAÇÕES DO MEU GITHUB:**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wwwrobert&show_icons=true&locale=en&layout=compact" alt="wwwrobert" /></p>
-
-[![Instagram](https://img.shields.io/badge/Instagram-00a4f2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/robertt_alvees)
+<div align="center">
+  <img width="90%" height="240px" src="https://github-readme-stats.vercel.app/api?username=wwwrobert&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00a4f2&text_color=c9d1d9&bg_color=0d1117" alt="Robert Alves github stats" /> 
+  <img width="90%" height="223px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwrobert&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 <br> <br>
 
@@ -30,3 +31,12 @@
     <img alt="github contribution grid snake animation" src="https://github.com/wwwrobert/wwwrobert/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+<br> <br>
+
+> ## **REDES SOCIAIS:**
+[![Instagram](https://img.shields.io/badge/Instagram-00a4f2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/robertt_alvees)
+
+<br> <br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a4f2&height=120&section=footer"/>
