@@ -6,7 +6,9 @@
 
 ---
 
-> ## **REDES SOCIAIS:**
+> ## **SOBRE O MEU GITHUB:**
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wwwrobert&show_icons=true&locale=en&layout=compact" alt="wwwrobert" /></p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-00a4f2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/robertt_alvees)
 
