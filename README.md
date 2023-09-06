@@ -6,9 +6,7 @@
 
 ---
 
-> ## **INFORMAÇÕES DO MEU GITHUB:**
-
-![Robert GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwrobert&show_icons=true&theme=algolia&count_private=true)
+> ## **REDES SOCIAIS:**
 
 [![Instagram](https://img.shields.io/badge/Instagram-00a4f2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/robertt_alvees)
 
